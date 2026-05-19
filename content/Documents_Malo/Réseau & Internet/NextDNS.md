@@ -8,7 +8,7 @@ tags:
   - vie-privée
   - publicités
 ---
-# 🔵 NextDNS
+#  NextDNS
 
 #réseau #dns #vie-privée #publicités
 
@@ -45,10 +45,10 @@ Un DNS alternatif (NextDNS, AdGuard, Cloudflare) résout ces problèmes.
 1. S'inscrire sur [nextdns.io](https://nextdns.io)
 2. Un **ID de configuration** unique est généré (ex. `abc123`)
 3. Configurer les listes de blocage :
-   - **AdGuard DNS filter** ✅ (publicités)
-   - **EasyList** ✅ (publicités)
-   - **EasyPrivacy** ✅ (trackers)
-   - **Malware** ✅
+   - **AdGuard DNS filter**  (publicités)
+   - **EasyList**  (publicités)
+   - **EasyPrivacy**  (trackers)
+   - **Malware** 
 
 ### Appliquer sur macOS
 ```bash

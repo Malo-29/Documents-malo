@@ -93,7 +93,7 @@ Passe automatiquement les segments sponsorisés dans les vidéos YouTube, basé 
 - **SearXNG** : méta-moteur open source, auto-hébergeable
 - **Startpage** : résultats Google mais sans pistage (proxy)
 
-❌ Éviter : Google, Bing, Yahoo (collecte massive)
+  Éviter : Google, Bing, Yahoo (collecte massive)
 
 ## Fingerprinting — Comprendre et réduire
 

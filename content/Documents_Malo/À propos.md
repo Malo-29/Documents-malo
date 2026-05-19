@@ -7,9 +7,9 @@ created: 2026-05-19
 
 ## 📬 Me contacter
 
-| Canal    | Adresse                 |
-| ------- | ----------------------- |
-| Ma       | `malo-perso@riseup.net`   Matrix rix | `@malo-29:matrix.org`   |
+| Canal | Adresse                              |                       |
+| ----- | ------------------------------------ | --------------------- |
+| Ma    | `malo-perso@riseup.net`   Matrix rix | `@malo-29:matrix.org` |
 
 
 ## 🔑 Clé publique GPG

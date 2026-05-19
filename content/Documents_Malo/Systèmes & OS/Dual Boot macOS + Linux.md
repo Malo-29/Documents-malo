@@ -10,11 +10,11 @@ tags:
   - macos
   - dual-boot
 ---
-# 🔀 Dual Boot macOS + Linux
+#  Dual Boot macOS + Linux
 
 #os #linux #macos #dual-boot
 
-> Le dual boot permet de faire cohabiter macOS et Linux sur le même Mac. Au démarrage, je choisis quel système lancer. Chacun a sa propre partition, isolée de l'autre.
+> Le dual boot permet de faire cohabiter macOS et Linux sur le même Mac. Au démarrage, je choisis quel système lancer. Chacun a sa propre partition, isolée de l'autre. Attention, je ne l'utilise plus personnellement (cassé un MacBook air M2 l'année dernière, projet PC sous linux qui arrive à la rentrée...)
 
 ---
 

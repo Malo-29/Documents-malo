@@ -1,7 +1,7 @@
 
 # 🗂️ Documents Malo — Index général
 
-> Ce vault Obsidian regroupe mes guides personnels sur mes usages numériques : outils, logiciels, pratiques de confidentialité et de productivité. Conçu pour être versionné sur GitHub et transmissible.
+> Ce vault Obsidian regroupe mes guides personnels sur mes usages numériques : outils, logiciels, pratiques de confidentialité et de productivité.
 
 ---
 

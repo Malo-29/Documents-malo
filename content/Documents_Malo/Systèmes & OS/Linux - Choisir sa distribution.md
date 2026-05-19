@@ -128,13 +128,7 @@ Installe et met à jour les logiciels :
 - Très exigeant en RAM (16+ Go recommandés)
 - → Le système le plus sécurisé pour un usage desktop
 
----
-
-## Mon usage
-
-J'utilise Linux en dual boot avec macOS. Voir [[Dual Boot macOS + Linux]] pour les détails de configuration.
-
----
+--- 
 
 ## Voir aussi
 
