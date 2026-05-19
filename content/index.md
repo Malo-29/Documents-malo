@@ -1,15 +1,26 @@
+---
+title: Wiki Malo
+---
+
 # Wiki Malo
 
-Bienvenue dans ton wiki.
+Documentation personnelle sur mes outils numériques — confidentialité, productivité, systèmes libres.
 
-## Navigation principale
+---
 
-- [[Documents_Malo/000 - Index]]
-- [[Documents_Malo/Alternatives Libres]]
-- [[Documents_Malo/Chiffrement]]
-- [[Documents_Malo/Communications]]
-- [[Documents_Malo/Email & Identité]]
-- [[Documents_Malo/Intelligence Artificielle]]
-- [[Documents_Malo/Réseau & Internet]]
-- [[Documents_Malo/Stockage & Chiffrement]]
-- [[Documents_Malo/Systèmes & OS]]
+## Thèmes
+
+| | |
+|---|---|
+| 🔒 [[Documents_Malo/Stockage & Chiffrement/MEGA\|Stockage]] | MEGA + Veracrypt |
+| 📬 [[Documents_Malo/Email & Identité/Thunderbird\|Email]] | Thunderbird, ProtonMail, Riseup |
+| 🌐 [[Documents_Malo/Réseau & Internet/MullvadVPN\|Réseau]] | VPN, Tor, DNS, navigateur |
+| 💬 [[Documents_Malo/Communications/Matrix - Element\|Communications]] | Matrix, Beeper |
+| 💻 [[Documents_Malo/Systèmes & OS/GrapheneOS\|Systèmes]] | Linux, GrapheneOS, dual boot |
+| 🃏 [[Documents_Malo/Anki/Anki - Vue d'ensemble\|Anki]] | Répétition espacée, greffons |
+| ⌨️ [[Documents_Malo/Clavier/Ergol\|Clavier]] | Ergol, Ducktypist, Monkeytype |
+| 📚 [[Documents_Malo/Réseau & Internet/Ressources Internet\|Ressources]] | FMHY, Anna's Archive |
+
+---
+
+`malo-perso@riseup.net` · `@malo-29:matrix.org`
