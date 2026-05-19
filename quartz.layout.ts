@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// components shared across all pages
 export const sharedLayout: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -8,10 +9,12 @@ export const sharedLayout: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Malo-29/Documents-malo",
+      Contact: "mailto:malo-perso@riseup.net",
     },
   }),
 }
 
+// components for pages that display a single page (e.g. a note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -33,6 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -47,4 +51,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+}
+
+export const sharedPageComponents = {
+  head: Component.Head(),
+  header: [],
+  footer: Component.Footer({
+    links: {
+      GitHub: "https://github.com/Malo-29/Documents-malo",
+      Contact: "mailto:malo-perso@riseup.net",
+    },
+  }),
 }

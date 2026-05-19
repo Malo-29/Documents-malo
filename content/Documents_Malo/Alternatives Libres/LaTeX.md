@@ -1,7 +1,3 @@
----
-tags: [redaction, latex, productivite, maths, sciences]
-created: 2026-05-19
----
 
 # 📐 LaTeX — Rédaction typographique
 
@@ -57,7 +53,7 @@ sudo apt install texlive-latex-extra texlive-fonts-recommended  # minimal+
 \geometry{margin=2.5cm}
 
 \title{Mon Devoir}
-\author{Malo Saout}
+\author{Auteur}
 \date{\today}
 
 \begin{document}
@@ -168,7 +164,7 @@ x^{2}     x_{n}     x^{n+1}_{k}
 \usepackage{tikz}           % graphiques vectoriels
 ```
 
-## Template  prépa
+## Template prépa
 
 ```latex
 \documentclass[12pt,a4paper]{article}

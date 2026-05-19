@@ -1,7 +1,3 @@
----
-tags: [productivite, python, programmation, automatisation, open-source]
-created: 2026-05-19
----
 
 # 🐍 Python — Automatisation & Scripts
 
@@ -19,38 +15,25 @@ pyenv global 3.12.0
 python --version  # Python 3.12.0
 ```
 
->  Ne jamais modifier le Python système sur macOS (`/usr/bin/python3`). Utiliser pyenv ou Homebrew.
+> ⚠️ Ne jamais modifier le Python système sur macOS (`/usr/bin/python3`). Utiliser pyenv ou Homebrew.
 
 ## Environnements virtuels
 
 Chaque projet doit avoir son propre environnement pour isoler les dépendances.
 
 ```bash
-# Créer un environnement virtuel
 python -m venv .venv
-
-# Activer (macOS/Linux)
-source .venv/bin/activate
-
-# Activer (Windows)
-.venv\Scripts\activate
-
-# Désactiver
+source .venv/bin/activate   # macOS/Linux
+.venv\Scripts\activate      # Windows
 deactivate
 
-# Installer des packages
 pip install nom-du-package
-
-# Sauvegarder les dépendances
 pip freeze > requirements.txt
-
-# Installer depuis requirements.txt
 pip install -r requirements.txt
 ```
 
 ## Bibliothèques utiles
 
-### Manipulation de données
 ```python
 import os, sys, pathlib     # système de fichiers
 import json, csv            # formats de données
@@ -58,7 +41,6 @@ import datetime             # dates et heures
 import re                   # expressions régulières
 ```
 
-### Bibliothèques tierces fréquentes
 ```bash
 pip install requests        # requêtes HTTP
 pip install beautifulsoup4  # scraping web
@@ -68,11 +50,10 @@ pip install python-dotenv   # variables d'environnement
 pip install rich            # affichage terminal coloré
 ```
 
-## Scripts que j'utilise
+## Scripts utiles
 
 ### Renommer des fichiers en masse
 ```python
-import os
 from pathlib import Path
 
 dossier = Path(".")
@@ -115,7 +96,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-source = Path("/Users/malosaout/Documents")
+source = Path.home() / "Documents"
 dest = Path("/Volumes/Backup") / f"backup_{datetime.now().strftime('%Y%m%d_%H%M')}"
 
 shutil.copytree(source, dest)
@@ -127,10 +108,8 @@ print(f"Sauvegarde créée : {dest}")
 ```python
 import subprocess
 
-# Ouvrir une application
 subprocess.run(["open", "-a", "IINA", "/chemin/vers/video.mkv"])
 
-# Notification macOS
 subprocess.run([
     "osascript", "-e",
     'display notification "Script terminé" with title "Python"'
@@ -140,7 +119,6 @@ subprocess.run([
 ## Bonnes pratiques
 
 ```python
-# Structure d'un script propre
 #!/usr/bin/env python3
 """Description courte du script."""
 
@@ -148,11 +126,9 @@ import sys
 from pathlib import Path
 
 def main() -> None:
-    """Fonction principale."""
     if len(sys.argv) < 2:
         print("Usage: script.py <argument>")
         sys.exit(1)
-    
     argument = sys.argv[1]
     # ... logique principale
 
@@ -169,4 +145,4 @@ if __name__ == "__main__":
 ## Voir aussi
 
 - [[LaTeX]] — Python peut générer du LaTeX automatiquement
-- [[Anki]] — AnkiConnect permet de piloter Anki via Python
+- [[Anki - Vue d'ensemble]] — AnkiConnect permet de piloter Anki via Python

@@ -5,25 +5,24 @@ created: 2026-05-19
 
 # 👤 À propos & Contact
 
+> Ce wiki documente mon environnement numérique personnel. Si tu veux me contacter :
+
 ## 📬 Me contacter
 
-| Canal | Adresse                              |                       |
-| ----- | ------------------------------------ | --------------------- |
-| Ma    | `malo-perso@riseup.net`   Matrix rix | `@malo-29:matrix.org` |
+**Mail :** `malo-perso@riseup.net`
 
+**Matrix :** `@malo-29:matrix.org`
+
+→ Pour les échanges sensibles : privilégier [[Riseup]] avec chiffrement [[GPG]].
+→ Pour Matrix : chiffrement E2EE activé par défaut sur les DM via [[Matrix - Element]].
 
 ## 🔑 Clé publique GPG
 
-Si tu veux m'envoyer un message chiffré, récupère ma clé publique GPG depuis :
-- [keys.openpgp.org](https://keys.openpgp.org) (chercher `malo-perso@riseup.net`)
-- Ou demande-moi directement via Matrix
+Pour m'envoyer un message chiffré, récupère ma clé publique sur [keys.openpgp.org](https://keys.openpgp.org) en cherchant `malo-perso@riseup.net`, ou demande-la directement via Matrix.
 
-## À propos de ce vault
+## ℹ️ À propos de ce wiki
 
-Ce vault documente mon environnement numérique personnel. Il est :
-- **Open source** — disponible sur GitHub
-- **Publié avec Quartz** — accessible en ligne
-- **Maintenu activement** — mis à jour régulièrement
+Ce wiki est open source, disponible sur [GitHub](https://github.com/Malo-29/Documents-malo) et publié avec [Quartz](https://quartz.jzhao.xyz) via Cloudflare Pages.
 
 ## Voir aussi
 
