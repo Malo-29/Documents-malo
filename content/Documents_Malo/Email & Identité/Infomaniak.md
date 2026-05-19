@@ -9,7 +9,7 @@ tags:
   - alternatives
   - vie-privée
 ---
-# 🟢 Infomaniak
+#  Infomaniak
 
 #email #cloud #alternatives #vie-privée
 

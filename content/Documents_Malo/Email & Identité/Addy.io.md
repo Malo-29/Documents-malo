@@ -56,7 +56,7 @@ Expéditeur → alias@addy.io → Addy.io → ma vraie adresse (Proton, etc.)
 
 ### Types d'alias
 - **UUID** : `550e8400-e29b@addy.io` — complètement aléatoire
-- **Custom** : `malosaout-amazon@mondomaine.addy.io` — plus mémorisable
+- **Custom** : `malo-29-amazon@mondomaine.addy.io` — plus mémorisable
 - **Catch-all** : tout ce qui arrive sur `*@mondomaine` est redirigé (si on a son domaine)
 
 ### Gérer les alias

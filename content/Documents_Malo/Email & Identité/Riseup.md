@@ -7,7 +7,7 @@ tags:
   - militantisme
   - alternatives
 ---
-# 🔴 Riseup
+#  Riseup
 
 #email #vie-privée #militantisme #alternatives
 
@@ -45,11 +45,12 @@ Riseup est un **collectif d'activistes technologiques** basé à Seattle, fondé
 
 ---
 
-## Obtenir un compte
+## Obtenir un compte - pour les motivés
 
 Riseup **ne permet pas les inscriptions publiques**. Il faut soit :
 - Recevoir une **invitation** d'un membre existant (2 codes d'invitation requis)
 - Être affilié à une organisation soutenue par Riseup
+- Je peux vous faire avoir un compte riseup, DM si interessé
 
 C'est intentionnel : cela filtre les abus et maintient la confiance dans la communauté.
 

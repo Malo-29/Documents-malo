@@ -22,7 +22,7 @@ Documentation personnelle sur mes outils numériques — confidentialité, produ
 [[Documents_Malo/Systèmes & OS/GrapheneOS|GrapheneOS]] · [[Documents_Malo/Systèmes & OS/Dual Boot macOS + Linux|Dual Boot]] · [[Documents_Malo/Systèmes & OS/Linux - Choisir sa distribution|Linux]]
 
 ## Outils
-[[Documents_Malo/Alternatives Libres/Anki - Vue d'ensemble|Anki]] · [[Documents_Malo/Clavier/Ergol|Ergol]] · [[Documents_Malo/Alternatives Libres/LaTeX|LaTeX]] · [[Documents_Malo/Alternatives Libres/Calibre|Calibre]] · [[Documents_Malo/Alternatives Libres/IINA|IINA]]
+[[Documents_Malo/Anki/Anki - Vue d'ensemble|Anki]] · [[Documents_Malo/Clavier/Ergol|Ergol]] · [[Documents_Malo/Alternatives Libres/LaTeX|LaTeX]] · [[Documents_Malo/Alternatives Libres/Calibre|Calibre]] · [[Documents_Malo/Alternatives Libres/IINA|IINA]]
 
 ---
 

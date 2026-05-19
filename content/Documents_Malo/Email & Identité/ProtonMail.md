@@ -7,11 +7,11 @@ tags:
   - chiffrement
   - vie-privée
 ---
-# 🔵 ProtonMail
+# ProtonMail
 
 #email #chiffrement #vie-privée
 
-> ProtonMail est mon adresse email principale pour les communications sensibles. Basé en Suisse, chiffré de bout en bout, conçu pour la vie privée.
+> ProtonMail est l'une de mes adresses emails principales pour les communications sensibles. Basé en Suisse, chiffré de bout en bout, conçu pour la vie privée.
 
 ---
 
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-## Proton Mail Bridge
+## Proton Mail Bridge : attention nécessite un abonnement payant
 
 Proton utilise un chiffrement côté client qui n'est **pas compatible avec IMAP standard**. Pour l'utiliser dans [[Thunderbird]], il faut installer **Proton Mail Bridge** :
 

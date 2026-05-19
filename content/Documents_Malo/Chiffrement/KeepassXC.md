@@ -34,7 +34,7 @@ Une base KeePassXC est un **fichier `.kdbx`** chiffré avec AES-256. Elle s'ouvr
 - Un **fichier clé** (optionnel, recommandé pour 2FA locale)
 - Une **clé matérielle YubiKey** (optionnel)
 
-> ⚠️ Si tu perds ton mot de passe maître ET ton fichier clé, la base est irrécupérable.
+>  Si tu perds ton mot de passe maître ET ton fichier clé, la base est irrécupérable.
 
 ## Comment j'organise ma base
 
