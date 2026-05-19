@@ -19,7 +19,7 @@ pyenv global 3.12.0
 python --version  # Python 3.12.0
 ```
 
-> ⚠️ Ne jamais modifier le Python système sur macOS (`/usr/bin/python3`). Utiliser pyenv ou Homebrew.
+>  Ne jamais modifier le Python système sur macOS (`/usr/bin/python3`). Utiliser pyenv ou Homebrew.
 
 ## Environnements virtuels
 

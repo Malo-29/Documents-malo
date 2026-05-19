@@ -168,7 +168,7 @@ x^{2}     x_{n}     x^{n+1}_{k}
 \usepackage{tikz}           % graphiques vectoriels
 ```
 
-## Template DM prépa
+## Template  prépa
 
 ```latex
 \documentclass[12pt,a4paper]{article}
@@ -180,7 +180,6 @@ x^{2}     x_{n}     x^{n+1}_{k}
 \geometry{top=2cm, bottom=2cm, left=2.5cm, right=2.5cm}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead[L]{Malo Saout — ECG2}
 \fancyhead[R]{\today}
 
 \begin{document}

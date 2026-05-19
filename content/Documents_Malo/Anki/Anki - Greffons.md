@@ -3,7 +3,7 @@ tags: [anki, greffon]
 created: 2026-05-19
 ---
 
-# 🔌 Greffons Anki — Documentation complète
+#  Greffons Anki — Documentation complète
 
 > Cette note centralise tous mes greffons Anki avec leur rôle, pourquoi je les utilise et comment les configurer. Anki est open source et extensible à l'infini via des greffons Python installés depuis AnkiWeb.
 
@@ -19,14 +19,13 @@ created: 2026-05-19
 
 ---
 
-## 🔍 Navigation & Interface
+##  Navigation & Interface
 
 ### Advanced Browser
 **Code :** `874215009`
 
 Améliore massivement l'interface de navigation des cartes (Browser). Ajoute des colonnes configurables : date de création, intervalle actuel, facilité, type de carte, deck de destination, champs personnalisés.
 
-**Pourquoi :** Le browser par défaut d'Anki est limité. Advanced Browser permet de filtrer et trier par n'importe quel critère, de voir l'intervalle de chaque carte d'un coup d'œil, et de travailler sur de grands decks efficacement.
 
 ---
 
@@ -60,14 +59,12 @@ Permet d'ouvrir plusieurs fenêtres Anki simultanément (Browser + Reviewer + É
 
 ---
 
-## 📊 Statistiques & Suivi
+## Statistiques & Suivi
 
-### Review Heatmap ⭐
+### Review Heatmap 
 **Code :** `1771074083`
 
-Affiche une carte de chaleur (heatmap) GitHub-style de tes révisions sur l'écran principal. Chaque jour est coloré selon le nombre de cartes révisées.
-
-**Pourquoi :** Visualisation motivante de la régularité. Difficile de "casser la chaîne" quand on voit une belle série verte.
+Affiche une heatmap de tes révisions sur l'écran principal. Chaque jour est coloré selon le nombre de cartes révisées.
 
 ---
 
@@ -75,8 +72,6 @@ Affiche une carte de chaleur (heatmap) GitHub-style de tes révisions sur l'écr
 **Code :** `613684242`
 
 Calcule la rétention réelle (taux de réussite) en excluant les cartes en apprentissage initial (qui faussent les statistiques). La vraie rétention porte uniquement sur les cartes matures.
-
-**Pourquoi :** Anki affiche par défaut une rétention brute qui inclut les nouvelles cartes. True Retention donne le vrai chiffre.
 
 ---
 
@@ -115,9 +110,9 @@ Affiche l'historique des notations précédentes d'une carte pendant la révisio
 
 ---
 
-## ⚡ Performance & Algorithme
+##  Performance & Algorithme
 
-### FSRS Helper ⭐
+### FSRS Helper 
 **Code :** `759844606`
 
 Extension de l'algorithme FSRS (Free Spaced Repetition Scheduler). Propose :
@@ -126,8 +121,6 @@ Extension de l'algorithme FSRS (Free Spaced Repetition Scheduler). Propose :
 - **Load Balance** : répartir la charge sur les jours suivants
 - **Easy Days** : alléger certains jours de la semaine
 - **Disperse Siblings** : écarter les cartes liées dans le temps
-
-**Pourquoi :** FSRS Helper est indispensable pour gérer les pics de révision. Avant un concours ou DS, j'utilise "Advance" pour réviser plus tôt, et "Load Balance" pour lisser la charge.
 
 ---
 
@@ -139,18 +132,14 @@ Ajoute un timer configurable pendant la révision :
 - **Auto-reveal** : montre la réponse automatiquement après X secondes
 - **Auto-answer** : note automatiquement la carte après Y secondes
 
-**Pourquoi :** Force à ne pas rester bloqué sur une carte. Pour les cartes de type "je sais ou je sais pas", réduire l'hésitation améliore l'efficacité.
-
 ---
 
-## ✏️ Édition & Création de cartes
+##  Édition & Création de cartes
 
-### Image Occlusion Enhanced ⭐
+### Image Occlusion Enhanced 
 **Code :** `1374772155`
 
 Ajoute un type de note spécial pour masquer des zones d'une image. On dessine des rectangles sur un schéma, et Anki génère une carte par zone masquée.
-
-**Pourquoi :** Parfait pour les cartes de géographie (masquer des pays sur une carte), schémas biologiques, diagrammes. Une image peut générer 10-20 cartes automatiquement.
 
 ---
 
@@ -202,12 +191,12 @@ Permet de sélectionner un mot dans une carte et d'ouvrir le Dictionnaire macOS 
 
 ## 🔗 Intégrations & Collaboration
 
-### AnkiConnect ⭐
+### AnkiConnect 
 **Code :** `2055492159`
 
 Expose une API REST locale (port 8765) permettant à d'autres logiciels de piloter Anki : ajouter des cartes, lancer des révisions, récupérer des statistiques.
 
-**Pourquoi :** Permet l'intégration avec Obsidian (plugin Obsidian-Anki), VS Code, et des scripts Python personnalisés. Exemple : créer une carte Anki directement depuis une note Obsidian.
+Permet l'intégration avec Obsidian (plugin Obsidian-Anki), VS Code, et des scripts Python personnalisés. Exemple : créer une carte Anki directement depuis une note Obsidian.
 
 ```python
 # Exemple : ajouter une carte via AnkiConnect
@@ -242,7 +231,7 @@ Plateforme de partage collaboratif de decks. Voir la note dédiée.
 
 Sidebar IA dans le reviewer Anki. Intègre ChatGPT / DeepSeek directement dans la fenêtre de révision pour obtenir des explications sur une carte difficile.
 
-**Pourquoi :** Au lieu de quitter Anki pour chercher une explication, on interroge l'IA directement. Pratique pour comprendre pourquoi une réponse est correcte.
+Au lieu de quitter Anki pour chercher une explication, on interroge l'IA directement. Pratique pour comprendre pourquoi une réponse est correcte.
 
 Le greffon **Subfolder for Anki Terminator V2** organise les fichiers associés dans un sous-dossier propre.
 
@@ -255,7 +244,7 @@ Tableau de scores partageable avec des amis pour comparer les nombres de cartes 
 
 ---
 
-## 🔧 Utilitaires divers
+## Utilitaires divers
 
 ### Auto Sync
 **Code :** `2018923290`
@@ -270,14 +259,13 @@ Synchronise automatiquement avec AnkiWeb à l'ouverture et à la fermeture d'Ank
 - **Colorful Tags** : attribue une couleur à chaque tag dans le Browser et l'éditeur
 - **Hierarchical Tags** : organise les tags en arborescence (`HGG::Auteurs::Rousseau`)
 
-**Pourquoi :** Rend la navigation dans de grandes collections beaucoup plus lisible. Je code mes tags par matière et type.
 
 ---
 
 ### Contanki — Controller Support
 **Code :** `1343485857`
 
-Permet d'utiliser une manette de jeu (PS4, Xbox, Switch Pro) pour naviguer et noter les cartes Anki. Pratique pour réviser depuis le canapé.
+Permet d'utiliser une manette de jeu (PS4, Xbox, Switch Pro) pour naviguer et noter les cartes Anki.
 
 ---
 

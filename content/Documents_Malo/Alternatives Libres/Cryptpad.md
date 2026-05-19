@@ -55,8 +55,6 @@ J'utilise l'instance officielle **[cryptpad.fr](https://cryptpad.fr)**, gérée 
 - **Sans compte** : les documents sont liés au navigateur (localStorage). Si tu vides les données, tu perds l'accès.
 - **Avec compte** : les documents sont dans un drive chiffré, accessible depuis n'importe quel appareil.
 
-Je recommande de créer un compte avec un **mot de passe fort stocké dans [[KeepassXC]]**.
-
 ## Limites
 
 - Stockage limité sur l'instance gratuite (1 Go)

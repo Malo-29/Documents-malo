@@ -3,7 +3,7 @@ tags: [anki, productivite, repetition-espacee, open-source, memoire]
 created: 2026-05-19
 ---
 
-# 🃏 Anki — Vue d'ensemble
+#  Anki — Vue d'ensemble
 
 > Anki est un logiciel de répétition espacée (SRS — Spaced Repetition System) open source. C'est l'outil le plus puissant que j'utilise pour mémoriser à long terme : vocabulaire, formules, dates, définitions, tout y passe.
 
@@ -76,25 +76,7 @@ Pour les flashcards mathématiques, j'utilise un note type avec MathJax activé 
 - Champ Question en HTML avec `\( ... \)` pour le LaTeX inline
 - Rendu automatique par MathJax dans le reviewer Anki
 
-## Decks (Paquets) — Organisation
 
-```
-📚 Mes decks
-├── 📖 HGG
-│   ├── Arguments
-│   ├── Exemples
-│   └── Auteurs
-├── 🔢 Maths ECG
-│   ├── Définitions & Théorèmes
-│   └── Méthodes
-├── 🇬🇧 Anglais
-│   ├── Vocabulaire
-│   ├── Civilisation
-│   └── Grammaire
-├── 🇪🇸 Espagnol
-│   └── Conjugaison
-└── 📝 Culture Générale
-    └── Thème : Juger
 ```
 
 ## Synchronisation — AnkiWeb
@@ -105,7 +87,7 @@ AnkiWeb synchronise gratuitement les cartes entre desktop, mobile et web.
 2. Dans Anki desktop : Synchroniser (icône ou `Ctrl+Y`)
 3. Sur mobile (AnkiDroid/AnkiMobile) : se connecter au même compte
 
-⚠️ AnkiMobile (iOS) est payant (~3€). AnkiDroid (Android) est gratuit et open source.
+AnkiMobile (iOS) est payant (~30€). AnkiDroid (Android) est gratuit et open source.
 
 ## Format d'import — Mes conventions
 

@@ -59,7 +59,7 @@ Le plan gratuit offre uniquement l'éditeur texte basique. Le plan payant (Produ
 
 ## Mon usage
 
-Standard Notes accueille mes **notes sensibles** : réflexions personnelles, informations confidentielles, brouillons privés. Pour les notes d'études et fiches, j'utilise ce vault Obsidian — non chiffré en soi, mais stocké dans un [[Veracrypt|volume Veracrypt]] ou sur [[MEGA]] (E2EE).
+Standard Notes accueille mes **notes sensibles** : réflexions personnelles, informations confidentielles, brouillons privés. Pour les notes d'études et fiches, j'utilise Obsidian — non chiffré en soi, mais stocké dans un [[Veracrypt|volume Veracrypt]] ou sur [[MEGA]] (E2EE).
 
 ---
 

@@ -63,14 +63,14 @@ sudo apt install qbittorrent
 ### Configuration recommandée
 
 **Préférences → Connexion :**
-- Port aléatoire à chaque démarrage : ✅
+- Port aléatoire à chaque démarrage 
 - UPnP / NAT-PMP : selon configuration réseau
 - Activer le protocole chiffrement des connexions : Activé
 
 **Préférences → BitTorrent :**
-- DHT : ✅ (permet les torrents sans tracker)
-- PeX (Peer Exchange) : ✅
-- Local Peer Discovery : ✅
+- DHT : (permet les torrents sans tracker)
+- PeX (Peer Exchange) 
+- Local Peer Discovery 
 - Ratio maximum : définir à 2.0 (bonne pratique)
 
 **Préférences → Avancé :**
@@ -79,7 +79,7 @@ sudo apt install qbittorrent
 
 ### Liaison avec un VPN (Kill Switch)
 
-⚠️ Sans VPN, ton IP est visible de tous les peers du torrent.
+ Sans VPN, ton IP est visible de tous les peers du torrent.
 
 Avec [[MullvadVPN]] :
 1. Activer le kill switch dans Mullvad
@@ -94,11 +94,7 @@ Préférences → WebUI → Activer l'interface web → Définir port + identifi
 
 ## Trouver des torrents
 
-- **[1337x.to](https://1337x.to)** — généraliste, populaire
-- **[RARBG mirror](https://rarbgmirror.com)** — films/séries (RARBG fermé en 2023, miroirs communautaires)
-- **[Nyaa.si](https://nyaa.si)** — anime, manga, contenu japonais
-- **[Rutracker.org](https://rutracker.org)** — musique, logiciels (interface en russe)
-- **Anna's Archive** → voir [[Ressources Internet]]
+- **[Rutracker.org](https://rutracker.org)** — films, musique, logiciels (interface en russe), c'est celui que j'utilise car on peut créé un compte sans invitation, je vais essayer de passer en tracker privé dès que j'aurai une connexion internet stable (pour pouvoir seeder en masse), pour plus d'info DM
 
 ## Légalité
 

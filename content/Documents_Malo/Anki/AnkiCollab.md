@@ -3,7 +3,7 @@ tags: [anki, collaboration, partage, open-source]
 created: 2026-05-19
 ---
 
-# 🤝 AnkiCollab — Partage collaboratif de decks
+#  AnkiCollab — Partage collaboratif de decks
 
 > AnkiCollab est un greffon Anki qui permet de partager et synchroniser des decks en temps réel entre plusieurs utilisateurs. C'est le Google Docs du deck Anki.
 
@@ -43,7 +43,7 @@ Outils → Greffons → Acquérir des greffons → coller le code AnkiCollab
 
 ## Cas d'usage
 
-- Partager un deck HGG ou maths entre plusieurs élèves de la même prépa
+- Partager un deck entre plusieurs élèves de la même prépa
 - Maintenir un deck de référence mis à jour par un prof ou un élève avancé
 - Collaborer à plusieurs sur un gros deck thématique
 
