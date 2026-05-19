@@ -1,3 +1,34 @@
-@use "./base.scss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
-// put your custom CSS here!
+:root {
+  --light: #1a1a2e;
+  --lightgray: #16213e;
+  --gray: #0f3460;
+  --darkgray: #a8b2d8;
+  --dark: #ccd6f6;
+  --secondary: #64ffda;
+  --tertiary: #57cbff;
+  --highlight: rgba(100, 255, 218, 0.08);
+  --bodyFont: "Inter", sans-serif;
+  --codeFont: "JetBrains Mono", monospace;
+}
+
+h1 { color: var(--secondary); }
+h2 { color: var(--tertiary); }
+
+a { color: var(--secondary) !important; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code {
+  background: var(--lightgray);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: var(--codeFont);
+}
+
+blockquote {
+  border-left: 3px solid var(--secondary);
+  padding-left: 1rem;
+  color: var(--darkgray);
+  font-style: italic;
+}
