@@ -22,9 +22,6 @@
 - [[GPG]] — Chiffrement asymétrique
 - [[KeepassXC]] — Gestionnaire de mots de passe local
 
-### 🤖 Intelligence Artificielle
-- [[Utiliser les IA]] — Comment j'intègre les IA dans mon quotidien
-
 ### 💬 Communications
 - [[Beeper]] — Messagerie unifiée
 - [[Matrix - Element]] — Protocole décentralisé E2EE
@@ -57,7 +54,7 @@
 - [[Calibre]] — Bibliothèque numérique
 - [[Handbrake]] — Compression vidéo
 
-### 🃏 Anki
+###  Anki
 - [[Anki - Vue d'ensemble]] — Présentation, types de notes, workflow
 - [[Anki - Greffons]] — Documentation de tous mes greffons
 - [[AnkiCollab]] — Partage collaboratif de decks
