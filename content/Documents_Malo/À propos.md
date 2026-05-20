@@ -5,7 +5,11 @@ created: 2026-05-19
 
 # 👤 À propos & Contact
 
-> Ce wiki documente mon environnement numérique personnel. Si tu veux me contacter :
+> Grand novice en informatique, premier site build (avec une aide précieuse de Claude), si vous avez des suggestions, conseils, propositions, critiques... j'ai créé un salon Matrix associé au projet, avec le lien ci-dessous. Sinon, mes coordonnées ci-dessous aussi.
+
+## Salon Matrix
+
+https://matrix.to/#/#wiki_habitudes_numriques:matrix.org
 
 ## 📬 Me contacter
 
