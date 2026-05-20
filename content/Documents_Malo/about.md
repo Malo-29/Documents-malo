@@ -17,9 +17,6 @@ https://matrix.to/#/#wiki_habitudes_numriques:matrix.org
 
 **Matrix :** `@malo-29:matrix.org`
 
-→ Pour les échanges sensibles : privilégier [[Riseup]] avec chiffrement [[GPG]].
-→ Pour Matrix : chiffrement E2EE activé par défaut sur les DM via [[Matrix - Element]].
-
 ## 🔑 Clé publique GPG
 
 Pour m'envoyer un message chiffré, récupère ma clé publique sur [keys.openpgp.org](https://keys.openpgp.org) en cherchant `malo-perso@riseup.net`, ou demande-la directement via Matrix.
