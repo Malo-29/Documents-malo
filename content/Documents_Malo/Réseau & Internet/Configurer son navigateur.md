@@ -9,14 +9,14 @@ created: 2026-05-19
 
 ## Quel navigateur ?
 
-| Navigateur | Base | Vie privée | Recommandé |
-|---|---|---|---|
-| Chrome | Chromium (Google) | ❌ | Non |
-| Edge | Chromium (Microsoft) | ❌ | Non |
-| Brave | Chromium | ✅ | Oui (débutant) |
-| Firefox | Gecko (Mozilla) | ✅ avec config | ✅ Oui |
-| Librewolf | Firefox durci | ✅✅ | Oui (avancé) |
-| Tor Browser | Firefox + Tor | ✅✅✅ | Pour anonymat fort |
+| Navigateur  | Base                 | Vie privée    | Recommandé         |
+| ----------- | -------------------- | ------------- | ------------------ |
+| Chrome      | Chromium (Google)    | ❌             | Non                |
+| Edge        | Chromium (Microsoft) | ❌             | Non                |
+| Brave       | Chromium             | ✅             | Oui (débutant)     |
+| Firefox     | Gecko (Mozilla)      | ✅ avec config | ✅ Oui              |
+| Librewolf   | Firefox durci        | ✅✅            | Oui (avancé)       |
+| Tor Browser | Firefox + Tor        | ✅✅✅           | Pour anonymat fort |
 
 **Mon choix principal : Firefox** configuré manuellement + **Librewolf** pour la navigation sensible.
 

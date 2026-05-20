@@ -11,7 +11,7 @@ aliases:
 
 #stockage #cloud #chiffrement
 
-> MEGA est mon service de stockage cloud principal. Je l'utilise comme alternative à Google Drive ou iCloud, avec un avantage clé : le chiffrement de bout en bout côté client.
+> MEGA est mon service de stockage cloud principal. Je l'utilise comme alternative à Google Drive ou iCloud, avec un avantage clé : le chiffrement de bout en bout côté client. Possibilité de faire du multi-comptes et de se partager les documents au compte central, donnant une capacité de stockage illimité.
 
 ---
 
