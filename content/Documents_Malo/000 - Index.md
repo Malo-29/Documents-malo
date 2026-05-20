@@ -85,6 +85,6 @@
 
 ---
 
-📬 **Contact :** `malo-perso@riseup.net` · Matrix : `@malo-29:matrix.org` · [[À propos]]
+📬 **Contact :** `malo-perso@riseup.net` · Matrix : `@malo-29:matrix.org` · [[about]]
 
 *Vault maintenu par Malo — mis à jour régulièrement.*
